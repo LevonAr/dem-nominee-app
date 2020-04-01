@@ -15,7 +15,6 @@ class App extends React.Component {
             href="https://reactjs.org"
             rel="noopener noreferrer"
           >
-            Learn React
           </a>
         </header>
       </div>
